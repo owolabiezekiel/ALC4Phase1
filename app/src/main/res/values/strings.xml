@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="welcome_string">Welcome to ALC 4.0</string>
+    <string name="no_internt_access">No Internet Access</string>
+</resources>
